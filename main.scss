@@ -1,0 +1,13 @@
+$logo-color: #710a91;
+$text-color: #fafafa;
+$font-name: "Open Sans", sans-serif;
+.wrapper{
+    width: 200px;
+    height: 200px;
+    background-color: $logo-color;
+    p{
+        font-family: $font-name;
+        font-size: 30px;
+        color: $text-color;
+    }
+}
